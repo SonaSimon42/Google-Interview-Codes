@@ -3,7 +3,6 @@
 This repo contains the coding questions asked during my Google Interview:
 
 1. Match-three puzzle (eg: candy crush game) board creation
-   Create a game board (matix) for math three puzzle game: 
    - nxn board
    - k different colors
    - random choice of colors to fill (use build-in rand()) 
